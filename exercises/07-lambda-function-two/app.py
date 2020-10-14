@@ -1,3 +1,4 @@
+rapid = lambda x: x[:-1]
 
 
 
