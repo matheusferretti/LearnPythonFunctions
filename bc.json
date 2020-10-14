@@ -90,7 +90,7 @@
         {
             "slug": "06-lambda-functions",
             "title": "06-lambda-functions",
-            "done": false,
+            "done": true,
             "path": "exercises/06-lambda-functions",
             "translations": [
                 "es",
